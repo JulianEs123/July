@@ -1,0 +1,1 @@
+Es una debilidad o fallo en un sistema, aplicación o red que puede ser aprovechada por un atacante para comprometer la seguridad del mismo. Las vulnerabilidades pueden incluir errores de programación, configuraciones incorrectas o falta de actualizaciones.

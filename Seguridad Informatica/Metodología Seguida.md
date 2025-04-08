@@ -1,0 +1,1 @@
+Explicación del enfoque utilizado durante el análisis.

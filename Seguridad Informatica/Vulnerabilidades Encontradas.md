@@ -1,0 +1,1 @@
+Listado de las debilidades descubiertas.

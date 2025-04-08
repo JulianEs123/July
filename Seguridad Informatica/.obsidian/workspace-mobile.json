@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Seguridad Informatica.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "Seguridad Informatica"
             }
           }
         ]
@@ -37,7 +38,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Explorador de archivos"
@@ -155,5 +156,33 @@
     }
   },
   "active": "84048957a5568de7",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Anexos.md",
+    "Seguridad Informatica.md",
+    "Conclusiones.md",
+    "Vulnerabilidades Encontradas.md",
+    "Metodología Seguida.md",
+    "Introducción.md",
+    "Amenaza.md",
+    "Network Pentesting.md",
+    "OWASP Testing Guide.md",
+    "Penetration Testing Execution Standard (PTES).md",
+    "Pentesting Físico.md",
+    "Ingeniería Social.md",
+    "Wireless Pentesting.md",
+    "Web Pentesting.md",
+    "Client-Side Pentesting.md",
+    "Auditoría de Seguridad.md",
+    "Análisis de Vulnerabilidades.md",
+    "Red Teaming.md",
+    "Penetration Testing (Pentesting).md",
+    "Ethical Hacking.md",
+    "Caja.md",
+    "Caja Gris.md",
+    "Caja Blanca.md",
+    "Caja Negra.md",
+    "Vulnerabilidad.md",
+    "Riesgo.md",
+    "Sin título.canvas"
+  ]
 }

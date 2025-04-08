@@ -1,0 +1,1 @@
+Es una simulación de ataque más avanzada en la que un equipo actúa como un adversario para evaluar la capacidad de respuesta y las defensas de una organización frente a ataques complejos y prolongados.

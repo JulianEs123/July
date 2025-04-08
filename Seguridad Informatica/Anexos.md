@@ -1,0 +1,1 @@
+Datos técnicos adicionales, como capturas de pantalla, registros de pruebas, etc

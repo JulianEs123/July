@@ -1,0 +1,1 @@
+El atacante tiene un conocimiento completo del sistema o red, incluyendo acceso al código fuente, configuraciones, etc. 
