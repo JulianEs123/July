@@ -5,3 +5,4 @@ Estos términos se utilizan en el contexto de las pruebas de seguridad para desc
 - [[Caja Blanca]] 
     
 - [[Caja Gris]] 
+![[Pasted image 20250409181911.png]]

@@ -1,0 +1,2 @@
+En esta fase se documentan los hallazgos, se generan informes detallados y se presentan los resultados a la organización. El informe incluye recomendaciones para mitigar las vulnerabilidades 
+![[Pasted image 20250409182713.png]]

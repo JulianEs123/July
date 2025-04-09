@@ -1,0 +1,2 @@
+Se lleva a cabo la planificación, recopilación de información y definición de los objetivos del pentest. Esto incluye identificar los sistemas a probar y obtener el permiso adecuado.  
+![[Pasted image 20250409182646.png]]

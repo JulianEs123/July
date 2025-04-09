@@ -1,1 +1,2 @@
 Es la posibilidad de que una amenaza explote una vulnerabilidad, causando un daño o pérdida significativa para una organización. El riesgo se calcula en función de la probabilidad de que un ataque ocurra y el impacto que tendrá si se materializa.
+![[Pasted image 20250409181806.png]]

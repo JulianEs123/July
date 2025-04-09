@@ -1,1 +1,2 @@
 Es una evaluación exhaustiva de las políticas, procesos y controles de seguridad de una organización. Su objetivo es verificar si los sistemas y redes cumplen con los estándares de seguridad y normativas aplicables.
+![[Pasted image 20250409182143.png]]

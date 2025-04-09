@@ -1,1 +1,2 @@
 Es cualquier circunstancia o evento que puede explotar una vulnerabilidad para causar daño a los sistemas, datos o recursos de una organización. Las amenazas pueden ser tanto externas (cibercriminales) como internas (empleados o usuarios malintencionados).
+![[Pasted image 20250409181649.png]] 

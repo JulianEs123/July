@@ -1,1 +1,2 @@
 Es la práctica de realizar pruebas de penetración con el permiso de la organización, para encontrar vulnerabilidades y resolverlas antes de que los atacantes malintencionados las exploten
+![[Pasted image 20250409181948.png]]

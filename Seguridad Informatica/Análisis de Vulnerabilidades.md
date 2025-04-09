@@ -1,1 +1,2 @@
 Es el proceso de escanear y evaluar los sistemas en busca de debilidades que los atacantes puedan explotar. Esto se realiza utilizando herramientas automatizadas o manualmente.
+![[Pasted image 20250409182112.png]]

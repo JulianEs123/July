@@ -1,1 +1,2 @@
 Un conjunto de prácticas estandarizadas para realizar pruebas de penetración, que cubren desde la planificación hasta la ejecución y presentación de los resultados.
+![[Pasted image 20250409182521.png]]
